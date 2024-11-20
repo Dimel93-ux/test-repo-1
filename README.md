@@ -1,2 +1,2 @@
-# test-repo-1
+# Example of README.md
 Repository for examp exercise
